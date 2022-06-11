@@ -43,3 +43,6 @@ yarn-error.log*
 
 # next
 /.next
+
+# typescript
+*.tsbuildinfo
